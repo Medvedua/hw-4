@@ -489,12 +489,13 @@ justify-content: center;
   color: #f4f4fd;
   letter-spacing: 0.02em;
   width: 264px;
-  margin-bottom: 16px;
+  
   padding-bottom: 100px;
 }
 
 .footer-title {
-  margin-bottom: 8px;
+  margin-bottom: 16px;
+  
   color: var(--bgd-white-color);
 
   font-style: normal;
